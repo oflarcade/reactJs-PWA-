@@ -1,0 +1,64 @@
+{
+  "short_name": "Taaj",
+  "name": "Taaj Supermarché",
+  "icons": [
+      {
+        "src": "icon-128x128.png",
+        "sizes": "128x128 64x64 32x32 24x24 16x16",
+        "type": "image/png"
+      },
+    {
+      "src": "icons/icon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-24x24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512X512.png",
+      "sizes": "512X512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0B610B",
+  "background_color": "#0B610B",
+  "lang": "fr-FR",
+  "description": "Application Taaj promotion",
+  "scope" : ".",
+  "orientation": "portrait-primary"
+}

@@ -1,0 +1,11 @@
+.language-drawer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-top: 10rem;
+}
+
+.language-drawer-container div {
+    margin: 1rem 5rem 1rem 5rem;
+}
