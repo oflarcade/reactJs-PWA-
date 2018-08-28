@@ -1,3 +1,10 @@
+### TAAJ Progressive Web Application
+
+
+This is a simple app for Taaj-supermarche, a belgian supermarket, to create a display of their daily promotion for their IOS clients. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Packages used with this projects
@@ -5,7 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * `redux`;
 * `react-bootstrap-3`;
 
-This is a simple app for Taaj-supermarche, a belgian supermarket, to create a display of their daily promotion for their IOS clients. 
 
 
 
